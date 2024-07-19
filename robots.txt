@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://olythork.github.io/sitemap
+Sitemap: https://olythork.github.io/app/sitemap
+Sitemap: https://olythork.github.io/assets/sitemap
+Sitemap: https://olythork.github.io/css/sitemap
+Sitemap: https://olythork.github.io/includes/sitemap
+Sitemap: https://olythork.github.io/item/sitemap
+Sitemap: https://olythork.github.io/src/sitemap
